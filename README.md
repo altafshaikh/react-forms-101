@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. clone the repository
 ```
-git clone https://github.com/ialtafshaikh/react-forms-todo-frontend.git
+git clone https://github.com/altafshaikh/react-forms-101.git
 ```
 
 2. change directory to `cd react-forms-todo-frontend`
@@ -76,7 +76,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ## Author
 
-* **Altaf Shaikh** - *work by* - [ialtafshaikh](https://github.com/ialtafshaikh)
+* **Altaf Shaikh** - *work by* - [altafshaikh](https://github.com/altafshaikh)
 
 ![altaf shaikh](https://raw.githubusercontent.com/ialtafshaikh/static-files/master/coollogo_com-327551664.png)
 
